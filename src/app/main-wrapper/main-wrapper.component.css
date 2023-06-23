@@ -1,0 +1,6 @@
+main{
+    background-color: rgb(233, 210, 222);
+    height: calc(100vh - var(--header-height));
+    padding: 1.5rem;
+    line-height: 2rem;
+}

@@ -1,0 +1,11 @@
+header{
+    background-color: burlywood;
+    height: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+header h1{
+    padding: .5rem;
+}

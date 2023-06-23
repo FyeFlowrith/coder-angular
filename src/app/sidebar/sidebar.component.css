@@ -1,0 +1,4 @@
+aside {
+    background-color: rgb(181, 206, 207);    
+    height: calc(100vh - var(--header-height));
+}
